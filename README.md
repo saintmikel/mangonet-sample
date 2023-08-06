@@ -1,2 +1,2 @@
 # mangonet-onboarding
-Repositary for Signup page
+Created with CodeSandbox
